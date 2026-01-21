@@ -50,7 +50,6 @@ vignettes/*.pdf
 po/*~
 
 # Plots and outputs
-*.png
 *.jpg
 *.jpeg
 *.pdf
