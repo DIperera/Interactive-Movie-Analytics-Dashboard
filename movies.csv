@@ -1,0 +1,98 @@
+movie_title,genres,imdb_score,gross,budget,director_name,num_voted_users,year
+Avatar,Action|Adventure|Fantasy|Sci-Fi,7.9,760505847,237000000,James Cameron,886204,2009
+Pirates of the Caribbean: At World's End,Action|Adventure|Fantasy,7.1,309404152,300000000,Gore Verbinski,471220,2007
+The Dark Knight Rises,Action|Thriller,8.5,448130642,250000000,Christopher Nolan,1144337,2012
+John Carter,Action|Adventure|Sci-Fi,6.6,73058679,263700000,Andrew Stanton,212807,2012
+Spider-Man 3,Action|Adventure|Romance,6.2,336530303,258000000,Sam Raimi,383056,2007
+Tangled,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,7.8,200807262,260000000,Nathan Greno,294810,2010
+Avengers: Age of Ultron,Action|Adventure|Sci-Fi,7.4,458991599,250000000,Joss Whedon,547959,2015
+Harry Potter and the Half-Blood Prince,Adventure|Family|Fantasy|Mystery,7.5,301956980,250000000,David Yates,407847,2009
+Batman v Superman: Dawn of Justice,Action|Adventure|Sci-Fi,6.7,330249062,250000000,Zack Snyder,509136,2016
+Superman Returns,Action|Adventure|Sci-Fi,6.1,200069408,209000000,Bryan Singer,226197,2006
+Quantum of Solace,Action|Adventure|Crime|Thriller,6.7,168368427,200000000,Marc Forster,343447,2008
+Pirates of the Caribbean: On Stranger Tides,Action|Adventure|Fantasy,6.7,241063875,250000000,Rob Marshall,399431,2011
+The Lone Ranger,Action|Adventure|Western,6.5,89289910,215000000,Gore Verbinski,177546,2013
+Man of Steel,Action|Adventure|Fantasy|Sci-Fi,7.1,291021565,225000000,Zack Snyder,555897,2013
+The Chronicles of Narnia: Prince Caspian,Action|Adventure|Family|Fantasy,6.6,141614023,225000000,Andrew Adamson,174674,2008
+The Hobbit: The Battle of the Five Armies,Adventure|Fantasy,7.5,255108370,250000000,Peter Jackson,422136,2014
+The Amazing Spider-Man,Action|Adventure|Fantasy,7.1,262030663,220000000,Marc Webb,464037,2012
+Robin Hood,Action|Adventure|Drama,6.7,105219735,200000000,Ridley Scott,212500,2010
+The Hobbit: The Desolation of Smaug,Adventure|Fantasy,7.9,258355354,225000000,Peter Jackson,488761,2013
+The Golden Compass,Adventure|Family|Fantasy,6.1,70083519,180000000,Chris Weitz,159246,2007
+King Kong,Action|Adventure|Drama|Romance,7.3,218051260,207000000,Peter Jackson,329800,2005
+Titanic,Drama|Romance,7.8,658672302,200000000,James Cameron,902207,1997
+Captain America: Civil War,Action|Adventure|Sci-Fi,7.9,408080554,250000000,Anthony Russo,499872,2016
+Battleship,Action|Adventure|Sci-Fi|Thriller,5.9,65173160,209000000,Peter Berg,195562,2012
+Jurassic World,Action|Adventure|Sci-Fi|Thriller,7.0,652177271,150000000,Colin Trevorrow,457868,2015
+Skyfall,Action|Adventure|Thriller,7.8,304360277,200000000,Sam Mendes,535434,2012
+Spider-Man 2,Action|Adventure|Fantasy,7.3,373377893,200000000,Sam Raimi,445661,2004
+Iron Man 3,Action|Adventure|Sci-Fi,7.2,408992272,200000000,Shane Black,620138,2013
+Alice in Wonderland,Adventure|Family|Fantasy,6.5,334185206,200000000,Tim Burton,313859,2010
+X-Men: Days of Future Past,Action|Adventure|Sci-Fi|Thriller,8.0,233914986,200000000,Bryan Singer,554933,2014
+Monsters University,Animation|Comedy|Family,7.3,268488329,200000000,Dan Scanlon,259486,2013
+Transformers: Age of Extinction,Action|Adventure|Sci-Fi,5.7,245428137,210000000,Michael Bay,253041,2014
+Noah,Action|Adventure|Drama,5.8,101191632,125000000,Darren Aronofsky,219417,2014
+Troy,Adventure|Drama,7.2,133378251,175000000,Wolfgang Petersen,431239,2004
+Quantum of Solace,Action|Adventure|Crime|Thriller,6.7,168368427,200000000,Marc Forster,343447,2008
+WALL-E,Animation|Adventure|Family|Sci-Fi,8.4,223749872,180000000,Andrew Stanton,779151,2008
+The Incredibles,Action|Adventure|Animation|Family,8.0,261437578,92000000,Brad Bird,530070,2004
+Interstellar,Adventure|Drama|Sci-Fi,8.6,187991439,165000000,Christopher Nolan,1066213,2014
+Inception,Action|Mystery|Sci-Fi|Thriller,8.8,292568851,160000000,Christopher Nolan,1583625,2010
+The Dark Knight,Action|Crime|Drama|Thriller,9.0,533316061,185000000,Christopher Nolan,1791916,2008
+Deadpool,Action|Adventure|Comedy|Romance,8.0,363024263,58000000,Tim Miller,681591,2016
+Guardians of the Galaxy,Action|Adventure|Sci-Fi,8.1,333130696,170000000,James Gunn,688077,2014
+The Martian,Adventure|Drama|Sci-Fi,8.0,228433131,108000000,Ridley Scott,594936,2015
+Mad Max: Fury Road,Action|Adventure|Sci-Fi|Thriller,8.1,153636354,150000000,George Miller,694696,2015
+Inside Out,Animation|Adventure|Comedy|Drama|Family|Fantasy,8.2,356454367,175000000,Pete Docter,450618,2015
+Finding Nemo,Adventure|Animation|Comedy|Family,8.1,380529370,94000000,Andrew Stanton,716238,2003
+Frozen,Adventure|Animation|Comedy|Family|Fantasy|Musical,7.5,400738009,150000000,Chris Buck,470862,2013
+Toy Story 3,Animation|Adventure|Comedy|Family|Fantasy,8.3,415004880,200000000,Lee Unkrich,599409,2010
+Up,Adventure|Animation|Comedy|Drama|Family,8.3,293004164,175000000,Pete Docter,764114,2009
+Shrek 2,Adventure|Animation|Comedy|Family|Fantasy|Romance,7.2,436471036,70000000,Andrew Adamson,355026,2004
+The Hunger Games: Catching Fire,Action|Adventure|Mystery|Sci-Fi|Thriller,7.6,424645577,130000000,Francis Lawrence,500002,2013
+Furious 7,Action|Crime|Thriller,7.2,351032910,190000000,James Wan,282690,2015
+The Avengers,Action|Adventure|Sci-Fi,8.1,623279547,220000000,Joss Whedon,1068680,2012
+Star Wars: The Force Awakens,Action|Adventure|Fantasy|Sci-Fi,8.0,936630746,245000000,J.J. Abrams,639050,2015
+Jurassic Park,Action|Adventure|Sci-Fi|Thriller,8.1,402445162,63000000,Steven Spielberg,663037,1993
+The Lion King,Adventure|Animation|Drama|Family|Musical,8.5,422783777,45000000,Roger Allers,696999,1994
+Forrest Gump,Drama|Romance,8.8,329691196,55000000,Robert Zemeckis,1316969,1994
+The Shawshank Redemption,Crime|Drama,9.3,28341469,25000000,Frank Darabont,1795324,1994
+Pulp Fiction,Crime|Drama,8.9,107930000,8000000,Quentin Tarantino,1411102,1994
+The Godfather,Crime|Drama,9.2,134821952,6000000,Francis Ford Coppola,1167080,1972
+Goodfellas,Crime|Drama,8.7,46836394,25000000,Martin Scorsese,770528,1990
+Fight Club,Drama,8.8,37030102,63000000,David Fincher,1450908,1999
+The Matrix,Action|Sci-Fi,8.7,171383253,63000000,Lana Wachowski,1307696,1999
+The Silence of the Lambs,Crime|Drama|Thriller,8.6,130742922,19000000,Jonathan Demme,903242,1991
+Saving Private Ryan,Drama|War,8.6,216119491,70000000,Steven Spielberg,916362,1998
+Schindler's List,Biography|Drama|History,8.9,96065768,22000000,Steven Spielberg,927318,1993
+Gladiator,Action|Adventure|Drama,8.5,187670866,103000000,Ridley Scott,1092789,2000
+The Green Mile,Crime|Drama|Fantasy,8.5,136801374,60000000,Frank Darabont,822412,1999
+Braveheart,Biography|Drama|History|War,8.3,75609945,72000000,Mel Gibson,761945,1995
+The Departed,Crime|Drama|Thriller,8.5,132373442,90000000,Martin Scorsese,918269,2006
+The Prestige,Drama|Mystery|Sci-Fi|Thriller,8.5,53082743,40000000,Christopher Nolan,908455,2006
+Memento,Mystery|Thriller,8.5,25530884,9000000,Christopher Nolan,869332,2000
+The Sixth Sense,Drama|Mystery|Thriller,8.1,293501675,40000000,M. Night Shyamalan,739512,1999
+Se7en,Crime|Drama|Mystery|Thriller,8.6,100123774,33000000,David Fincher,1097746,1995
+The Usual Suspects,Crime|Drama|Mystery|Thriller,8.6,23341568,6000000,Bryan Singer,796212,1995
+American Beauty,Drama,8.4,130058927,15000000,Sam Mendes,859830,1999
+Eternal Sunshine of the Spotless Mind,Drama|Romance|Sci-Fi,8.3,34400301,20000000,Michel Gondry,719407,2004
+A Beautiful Mind,Biography|Drama,8.2,170708996,58000000,Ron Howard,653656,2001
+The Pianist,Biography|Drama|Music|War,8.5,32490428,35000000,Roman Polanski,544017,2002
+Juno,Comedy|Drama|Romance,7.5,143495265,7500000,Jason Reitman,432907,2007
+Little Miss Sunshine,Comedy|Drama,7.8,59891098,8000000,Jonathan Dayton,361989,2006
+Slumdog Millionaire,Drama|Romance,8.0,141319928,15000000,Danny Boyle,649938,2008
+The King's Speech,Biography|Drama|History,8.0,138758449,15000000,Tom Hooper,542069,2010
+Black Swan,Drama|Thriller,8.0,106954678,13000000,Darren Aronofsky,592894,2010
+Whiplash,Drama|Music,8.5,13092000,3300000,Damien Chazelle,523601,2014
+Birdman,Comedy|Drama,7.7,42340598,18000000,Alejandro González Iñárritu,509729,2014
+The Grand Budapest Hotel,Adventure|Comedy|Crime,8.1,59301324,25000000,Wes Anderson,549693,2014
+Moonlight,Drama,7.4,27854932,1500000,Barry Jenkins,194069,2016
+La La Land,Comedy|Drama|Music|Musical|Romance,8.1,151101803,30000000,Damien Chazelle,329499,2016
+Get Out,Horror|Mystery|Thriller,7.8,175483320,4500000,Jordan Peele,312319,2017
+Logan,Action|Drama|Sci-Fi|Thriller,8.1,226264245,97000000,James Mangold,499098,2017
+Wonder Woman,Action|Adventure|Fantasy|Sci-Fi|War,7.5,412563408,149000000,Patty Jenkins,415085,2017
+Thor: Ragnarok,Action|Adventure|Comedy|Fantasy|Sci-Fi,7.9,315018735,180000000,Taika Waititi,399234,2017
+Blade Runner 2049,Drama|Mystery|Sci-Fi|Thriller,8.0,92054159,150000000,Denis Villeneuve,356933,2017
+Dunkirk,Action|Drama|History|Thriller|War,7.9,188373161,100000000,Christopher Nolan,435229,2017
+Baby Driver,Action|Crime|Drama|Music|Thriller,7.6,107825862,34000000,Edgar Wright,369845,2017
+The Shape of Water,Adventure|Drama|Fantasy|Romance,7.3,63859435,19500000,Guillermo del Toro,305815,2017
